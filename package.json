@@ -1,0 +1,14 @@
+{
+  "name": "nikylimatattoo-site",
+  "version": "1.0.0",
+  "description": "Site da Niky Lima Tattoo, tatuadora em Manaus",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}
